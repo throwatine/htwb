@@ -1,0 +1,11 @@
+[fetcher]
+client_id=CLIENT_ID
+client_secret=CLIENT_SECRET
+password=hunter2
+username=spez
+
+[poster]
+client_id=CLIENT_ID2
+client_secret=CLIENT_SECRET2
+password=asterisks
+username=hunter2
